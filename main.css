@@ -52,6 +52,7 @@ img {
   float: left;
   margin-left: 10px;
   font-size: 20px;
+  color: #000;
 }
 
 .fullscreen {
@@ -97,7 +98,7 @@ img {
 }
 .floatright {
   float: right;
-  margin 2%;
+  margin: 2%;
 }
 
 .more {
