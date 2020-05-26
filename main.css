@@ -58,7 +58,7 @@ img {
 }
 
 .fullscreen {
-  height: 95%;
+  /*height: 95%;*/
   position: relative;
 }
 .fullscreen .header {
