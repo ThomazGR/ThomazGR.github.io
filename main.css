@@ -57,6 +57,14 @@ img {
   text-decoration: none;
 }
 
+#texto h1 {
+  font-size: 20px;
+}
+
+#texto p {
+  font-size: 15px;
+}
+
 .fullscreen {
   /*height: 95%;*/
   position: relative;
