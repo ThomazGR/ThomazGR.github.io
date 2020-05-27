@@ -1206,8 +1206,8 @@ pre code {
   }
   .col-lg-5 {
     -ms-flex: 0 0 41.666667%;
-    flex: 2 0 41.666667%;
-    max-width: 56.666667%;
+    flex: 2 0 41.666667% !important;
+    max-width: 56.666667% !important;
   }
   .col-lg-6 {
     -ms-flex: 0 0 50%;

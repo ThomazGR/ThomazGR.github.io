@@ -171,7 +171,7 @@ span {
 }
 
 #header #logo h1 a span {
-  color: #71c55d;
+  color: #ac029d;
 }
 
 #header #logo img {
@@ -221,7 +221,7 @@ span {
   font-weight: 700;
   line-height: 56px;
   font-family: "Philosopher", sans-serif;
-  color: #71c55d;
+  color: #000000;
 }
 
 @media (max-width: 768px) {
@@ -263,14 +263,14 @@ span {
   border-radius: 50px;
   transition: 0.5s;
   margin-bottom: 30px;
-  border: 2px solid #71c55d;
+  border: 2px solid #000000;
   background: #fff;
-  color: #71c55d;
+  color: #000000;
   text-decoration: none;
 }
 
 #hero .btn-get-started:hover {
-  background: #71c55d;
+  background: #000000;
   color: #fff;
 }
 
@@ -381,7 +381,7 @@ span {
 }
 
 .nav-menu li:hover > a, .nav-menu > .menu-active > a {
-  color: #71c55d;
+  color: #ac029d;
 }
 
 .nav-menu > li {
@@ -735,7 +735,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 #video .overlay .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#71c55d 50%, rgba(113, 197, 93, 0.15) 52%);
+  background: radial-gradient(#000000 50%, rgba(0, 0, 0, 0.15) 52%);
   border-radius: 50%;
   display: block;
   margin: 153px auto 0;
@@ -1212,8 +1212,8 @@ body.mobile-nav-active #mobile-nav-toggle i {
 
 #contact .info i {
   font-size: 32px;
-  color: #71c55d;
-  float: left;
+  color: #000000;
+  float: center;
 }
 
 #contact .info p {
@@ -1234,7 +1234,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 #contact .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #71c55d;
+  background: #000000;
   color: #fff;
   line-height: 1;
   padding: 6px 0 8px 0;
