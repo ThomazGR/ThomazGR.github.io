@@ -44,6 +44,7 @@ a {
 
 ul {
   letter-spacing: 1px;
+  text-align: center;
 }
 
 li {
@@ -633,7 +634,10 @@ body.mobile-nav-active #mobile-nav-toggle i {
   padding-top: 60px;
 
 }
+#about-us .about-content p {
+  text-align: center !important;
 
+}
 #about-us .about-content h2 {
   color: #252525;
   font-family: "roboto";
@@ -642,6 +646,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
   letter-spacing: 2px;
   margin-bottom: 20px;
   text-transform: capitalize;
+  text-align: center;
 }
 
 #about-us .about-content span {
