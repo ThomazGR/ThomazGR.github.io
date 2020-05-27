@@ -153,6 +153,7 @@ span {
 
 #header #logo {
   padding: 6px 0 0 0;
+  display: none;
 }
 
 #header #logo h1 {
@@ -357,8 +358,8 @@ span {
 
 /* Nav Meu Container */
 #nav-menu-container {
-  float: right;
-  margin: 0 0 0 0;
+  float: left;
+  margin-left: 33%;
 }
 
 @media (max-width: 1024px) {
@@ -632,6 +633,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 #about-us .about-content {
   padding-top: 60px;
   width: 127% !important;
+  margin-left: -50px;
 }
 
 #about-us .about-content h2 {
@@ -785,7 +787,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 
 #video .overlay .play-btn:hover::after {
-  border-left: 15px solid #71c55d;
+  border-left: 15px solid #ac029d;
   -webkit-transform: scale(20);
   transform: scale(20);
 }
