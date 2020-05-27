@@ -92,6 +92,12 @@ img {
   background: rgba(255, 255, 255, .5);
   padding: 0 5%;
 }
+.semitrans h1 {
+  font-size: 20px;
+}
+.semitrans p {
+  font-size: 15px;
+}
 .dark {
   color: #eeeeec;
   background: #010105;
