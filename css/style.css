@@ -101,8 +101,7 @@ span {
 }
 
 .fa {
-  font-size: 13px;
-  padding-right: 5px;
+  font-size: 15px;
 }
 
 /* Back to top button */
@@ -632,8 +631,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 
 #about-us .about-content {
   padding-top: 60px;
-  width: 127% !important;
-  margin-left: -50px;
+
 }
 
 #about-us .about-content h2 {
@@ -1212,6 +1210,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 
 #contact .info {
   color: #222;
+  padding-left: 15%;
 }
 
 #contact .info i {
@@ -1224,7 +1223,8 @@ body.mobile-nav-active #mobile-nav-toggle i {
   padding: 0 0 10px 50px;
   margin-bottom: 20px;
   line-height: 22px;
-  font-size: 14px;
+  font-size: 16px;
+  font-weight: bold;
 }
 
 #contact .info .email p {
@@ -1233,6 +1233,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 
 #contact .social-links {
   padding-bottom: 20px;
+  text-align: center;
 }
 
 #contact .social-links a {
@@ -1250,7 +1251,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 
 #contact .social-links a:hover {
-  background: #55b03f;
+  background: #ac029d;
   color: #fff;
 }
 
