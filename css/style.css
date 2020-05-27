@@ -274,6 +274,7 @@ span {
 #hero .btn-get-started:hover {
   background: #ac029d;
   color: #fff;
+  border: 2px solid #ac029d;
 }
 
 #hero .btns a {
