@@ -9,8 +9,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background-color: #fff;
-  color: #333;
+  background-color: #000;
+  color: #fff;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -18,7 +18,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h2 {
-  color: #000;
+  color: #fff;
   font-weight: 600;
 }
 
@@ -58,7 +58,7 @@ li {
 
 p {
   color: #505050;
-  font-size: 14px;
+  /*font-size: 14px;*/
   font-weight: 300;
   letter-spacing: 0.5px;
   line-height: 2;
@@ -141,7 +141,7 @@ span {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #fff;
+  background: #000;
   position: fixed;
   left: 0;
   top: 0;
@@ -223,7 +223,7 @@ span {
   font-weight: 700;
   line-height: 56px;
   font-family: "Philosopher", sans-serif;
-  color: #000000;
+  color: #fff;
 }
 
 @media (max-width: 768px) {
@@ -265,7 +265,7 @@ span {
   border-radius: 50px;
   transition: 0.5s;
   margin-bottom: 30px;
-  border: 2px solid #000000;
+  border: 2px solid #fff;
   background: #fff;
   color: #000000;
   text-decoration: none;
@@ -278,8 +278,8 @@ span {
 }
 
 #hero .btns a {
-  color: #555;
-  font-size: 11px;
+  color: #fff;
+  font-size: 13px;
   font-weight: 600;
   text-transform: uppercase;
   margin: 4px 20px;
@@ -374,7 +374,7 @@ span {
   padding: 8px 8px;
   text-decoration: none;
   display: inline-block;
-  color: #555;
+  color: #a4a1a1;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 14px;
@@ -568,6 +568,8 @@ body.mobile-nav-active #mobile-nav-toggle i {
 
 .section-title .separator {
   margin: 0;
+  color: #fff;
+  font-weight: 400;
 }
 
 .separator {
@@ -637,6 +639,8 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 #about-us .about-content p {
   text-align: center !important;
+  color: #fff;
+  font-weight: 400;
 
 }
 #about-us .about-content h2 {
@@ -1221,7 +1225,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 
 #contact .info i {
   font-size: 32px;
-  color: #000000;
+  color: #fff;
   float: left;
 }
 
@@ -1245,10 +1249,10 @@ body.mobile-nav-active #mobile-nav-toggle i {
 #contact .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #000000;
-  color: #fff;
+  background: #fff;
+  color: #000;
   line-height: 1;
-  padding: 6px 0 8px 0;
+  padding: 7px 0 8px 2px;
   border-radius: 50%;
   text-align: center;
   width: 36px;
@@ -1259,6 +1263,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 #contact .social-links a:hover {
   background: #ac029d;
   color: #fff;
+  border-radius: none;
 }
 
 #contact .form #sendmessage {
