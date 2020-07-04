@@ -13,7 +13,7 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 p {
-	color:#A7A7A7;
+	color:#000000;
 }
 a { 
 	color:#000000;
@@ -171,7 +171,7 @@ a {
 	font-weight:700;
 }
 .type-meta {
-	color:#A7A7A7;
+	color:#000000;
 	font-size: 12px;
 	display: inline-block;
 	margin: 0px 10px 10px 0px;
@@ -184,7 +184,7 @@ a {
 	font-weight:700;
 }
 .funding-meta p {
-	color: #A7A7A7;
+	color: #000000;
 	margin: 30px 0px 10px 0px;
 }
 .video-frame {
@@ -206,7 +206,7 @@ a {
 	color: #000000;
 }
 .funding-meta span.contribution, .funding-meta span.goal-progress {
-	color: #A7A7A7;
+	color: #000000;
 }
 .funding-meta span.goal-progress {
 	text-align:right;
@@ -214,7 +214,7 @@ a {
 }
 .count-down {
 	display: block;
-	color: #A7A7A7;
+	color: #000000;
 	text-align: right;
 	text-transform: uppercase;
 }
@@ -268,7 +268,7 @@ a {
 .reward-block span {
 	margin-bottom: 10px;
 	display: block;
-	color: #A7A7A7;
+	color: #000000;
 }
 .reward-block.popular:after {
 	position: absolute;
@@ -330,7 +330,7 @@ a {
 .nav-tabs>li>a, .nav-tabs>li>a:hover {
 	border:0;
 	margin-right: 10px;
-	color:#A7A7A7;
+	color:#000000;
 }
 .tab-content .section-title {
 	margin-bottom: 20px;
@@ -352,7 +352,7 @@ a {
 .update-post .update-date {
 	margin: 0px 0px 15px 0px;
 	display: block;
-	color: #A7A7A7;
+	color: #000000;
 	font-size: 12px;
 }
 
