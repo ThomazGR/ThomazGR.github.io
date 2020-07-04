@@ -301,13 +301,13 @@ a {
 @media (max-width: 767px) {
 	.signup-input {
 		width: 75%;
-		max-width: 100%%;
+		max-width: 100%;
 	}
 }
 @media (max-width: 480px) {
 	.signup-input {
 		width: 100%;
-		max-width: 100%%;
+		max-width: 100%;
 	}
 	.sign-up-form .btn.btn-signup {
 		margin:10px 0px;
