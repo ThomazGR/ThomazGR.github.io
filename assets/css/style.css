@@ -156,7 +156,7 @@ a {
 	margin-top: 10px;
 }
 .profile-contents ul li a:hover {
-	background-color:#779A81;
+	background-color:#000000;
 }
 
 /*-Funding Meta-*/
@@ -395,7 +395,7 @@ a {
 	font-weight:700;
 }
 .btn.btn-contact:hover, .btn.btn-contact:focus {
-	background-color: #779A81;
+	background-color: #000000;
 }
 .btn.btn-contact i.fa {
 	margin-right:10px;
