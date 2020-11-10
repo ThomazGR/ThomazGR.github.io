@@ -156,7 +156,7 @@ h5.tittle {
 	margin-right: 30px;
 	display: inline-block;
 }
-.top-head a {
+/* .top-head a {
 	letter-spacing: 1px;
 	background: #346abb;
 	color: #fff;
@@ -166,10 +166,10 @@ h5.tittle {
 	font-size: 12px;
 	margin-top: 3px;
 	display: inline-block;
-}
-.top-head a:hover {
+} */
+/* .top-head a:hover {
 	background: #333;
-}
+} */
 /*=======================================================
       SIDE BAR
 ========================================================*/
